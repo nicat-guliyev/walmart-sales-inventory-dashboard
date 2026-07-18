@@ -1,10 +1,6 @@
 # Walmart Sales & Inventory Dashboard
-
 ## 📌 Project Overview
-
 This project is an interactive Power BI dashboard created to analyze Walmart sales and inventory data. It provides insights into sales performance, inventory levels, product performance, and regional trends using Power BI, Power Query, and DAX.
-
----
 
 ## 🛠 Tools & Technologies
 
@@ -13,8 +9,6 @@ This project is an interactive Power BI dashboard created to analyze Walmart sal
 - DAX
 - Excel
 - Data Modeling
-
----
 
 ## 📂 Dataset
 
@@ -25,7 +19,6 @@ The project uses the following datasets:
 - Walmart Database SKU
 - Walmart Database Stock
 
----
 
 ## 📊 Dashboard Pages
 
@@ -54,7 +47,6 @@ The project uses the following datasets:
 - Monthly Sales Trend
 - Year-over-Year Comparison
 
----
 
 ### Alberta Inventory Analysis
 
@@ -77,7 +69,6 @@ The project uses the following datasets:
 - Product Sales vs Ending Stock
 - Stock by Category
 
----
 
 ## 💡 Skills Demonstrated
 
@@ -90,14 +81,12 @@ The project uses the following datasets:
 - Inventory Analysis
 - Interactive Dashboard Design
 
----
 
 ## 📷 Dashboard Preview
 
 (Add dashboard screenshots here.)
 
 ---
-
 ## 📁 Files
 
 - Walmart Sales & Inventory Dashboard.pbix
