@@ -83,9 +83,19 @@ The project uses the following datasets:
 - Interactive Dashboard Design
 
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-(Add dashboard screenshots here.)
+### Sales Analysis
+
+![Sales Analysis](SalesAnalysis.png)
+
+### Stock Analysis
+
+![Stock Analysis](StockAnalysis.png)
+
+### Map View
+
+![Map View](MapView.png)
 
 ---
 ## 📁 Files
